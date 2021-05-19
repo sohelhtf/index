@@ -71,7 +71,10 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\nSitemap: https://www.soheldraws.com/sitemap.xml",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-175056275-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-175056275-1');\n</script>",
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "publishType": "local",
+    "mbrsite": "mbrsite://%7B%22id%22%3A127302%2C%22domain%22%3A%22o3wsbz7zfm.mobirisesite.com%22%7D",
+    "publishPath": "file:///F:/Zip/Website%20Backup%20File/Update%20website"
   },
   "pages": {
     "index.html": {
